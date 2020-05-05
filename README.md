@@ -11,7 +11,7 @@ Data : Titanic (from Kaggle).
 ## Notebook `auto_ml.ipynb` :
 The goal is to use the popular package Auto-ML on well know data and better understand what is happening.
 
-Architecture : None (it is magic, tadam !)
+Architecture : Not known (it is magic, tadam !)
 
 Data : Titanic (from Kaggle).
 
