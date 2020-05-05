@@ -1,7 +1,7 @@
 # Practice and Learn :
 This repositery is about test, pratice and learn. 
 
-## Notebook `feedforward_nn_manual_tensorflow.ipynb` :
+## Notebook `nn_manual_tensorflow.ipynb` :
 The goal is to manually create a 1-layer neural network using Tensorflow basic operations (placeholders, matrix multiplication, variables, ...).
 
 Architecture : 
