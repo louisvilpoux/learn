@@ -8,15 +8,22 @@ Architecture :
 
 Data : Titanic (from Kaggle).
 
+## Notebook `auto_ml.ipynb` :
+The goal is to use the popular package Auto-ML on well know data and better understand what is happening.
+
+Architecture : None (it is magic, tadam !)
+
+Data : Titanic (from Kaggle).
+
 ## Notebook `handwritten_reco_dense.ipynb` :
-The goal is to predict images of handwritten digits using Dense layers. This means that the fact of using images as data has not been used (a ConvNet should probably best perform in that case).
+The goal is to perform handwritten digits recognition using Dense layers. This means that the fact of using images as data has not been used (a ConvNet should probably best perform in that case).
 
 Architecture : 
 
 Data : Mnist dataset
 
 ## Notebook `handwritten_reco_cnn.ipynb` :
-The goal is to predict images of handwritten digits using a Convoution Neural Network.
+The goal is to perform handwritten digits recognition using a Convoution Neural Network.
 
 Architecture : 
 
