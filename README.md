@@ -9,7 +9,7 @@ Architecture : Input(_,10) -- Dense(4) + Sigmoid -- Dense(1) + Sigmoid
 Data : Titanic (from Kaggle).
 
 ## Notebook `auto_ml.ipynb` :
-The goal is to use the popular package Auto-ML on well know data and better understand what is happening.
+The goal is to use the popular package Auto-ML on well known data and better understand what is happening.
 
 Architecture : Not known (it is magic, tadam !)
 
