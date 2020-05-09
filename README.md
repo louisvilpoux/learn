@@ -4,7 +4,7 @@ This repositery is about test, pratice and learn.
 ## Notebook `manual_nn_tensorflow.ipynb` :
 The goal is to manually create a 1-layer neural network using Tensorflow basic operations (placeholders, matrix multiplication, variables, ...).
 
-Architecture : 
+Architecture : Input(_,10) -- Dense(4) + Sigmoid -- Dense(1) + Sigmoid
 
 Data : Titanic (from Kaggle).
 
