@@ -18,7 +18,7 @@ Data : Titanic (from Kaggle).
 ## Notebook `handwritten_reco_dense.ipynb` :
 The goal is to perform handwritten digits recognition using Dense layers. This means that the fact of using images as data has not been used (a ConvNet should probably best perform in that case).
 
-Architecture : 
+Architecture : Intput(28,28) -- Dense(300) + Relu -- Dense(100) + Relu -- Dense(10) + Softmax
 
 Data : Mnist dataset
 
